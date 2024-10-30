@@ -2,7 +2,7 @@
 
 <div align="center">
 
-Challenge from [Frontend Mentor](https://www.frontendmentor.io/profile/CodePapa360)
+Challenge from [Frontend Mentor](https://www.frontendmentor.io/profile/CodeWithAlamin)
 
 </div>
 
@@ -10,7 +10,7 @@ Challenge from [Frontend Mentor](https://www.frontendmentor.io/profile/CodePapa3
 <div align="center">
 
 <!-- Live -->
-<a href="https://newsletter-signup-form-codepapa360.netlify.app/">
+<a href="https://newsletter-signup-form-alamin.netlify.app/">
     <img src="https://custom-icon-badges.demolab.com/badge/Live%20Demo-blue?style=for-the-badge&logo=live360&labelColor=666666" alt="Live Demo" />
 </a>
 
@@ -30,7 +30,7 @@ Challenge from [Frontend Mentor](https://www.frontendmentor.io/profile/CodePapa3
     <img src="https://img.shields.io/badge/Status-Completed-success?style=flat" alt="Status" />
 </a>
 <!-- Liceensee -->
-<a href="https://github.com/CodePapa360/Newsletter-signup-form/blob/main/LICENSE.md">
+<a href="https://github.com/CodeWithAlamin/Newsletter-signup-form/blob/main/LICENSE.md">
     <img src="https://img.shields.io/badge/License-MIT-blue?style=flat" alt="License" />
 </a>
 
@@ -45,9 +45,9 @@ This project showcases a user-friendly form that allows users to submit their em
 
 </p>
 
-<a align="center" href="https://newsletter-signup-form-codepapa360.netlify.app/">
+<a align="center" href="https://newsletter-signup-form-alamin.netlify.app/">
 
-![Screenshot](./screenshots/Newsletter-signup-form-with-success-message-screenshot-codepapa360.png)
+![Screenshot](./screenshots/Newsletter-signup-form-with-success-message-screenshot-CodeWithAlamin.png)
 
 </a>
 
@@ -78,7 +78,7 @@ Users should be able to:
 - Clone this repo:
 
 ```sh
-git clone https://github.com/CodePapa360/Newsletter-signup-form.git
+git clone https://github.com/CodeWithAlamin/Newsletter-signup-form.git
 ```
 
 - Install dependencies:
@@ -103,10 +103,10 @@ npm start
 
 <b>👤 Alamin</b>
 
-- Twitter - [@CodePapa360](https://www.twitter.com/CodePapa360)
-- LinkedIn - [@CodePapa360](https://www.linkedin.com/in/codepapa360)
-- Frontend Mentor - [@CodePapa360](https://www.frontendmentor.io/profile/CodePapa360)
-- Github: [@CodePapa360](https://github.com/codepapa360)
+- Twitter - [@CodeWithAlamin](https://www.twitter.com/CodeWithAlamin)
+- LinkedIn - [@CodeWithAlamin](https://www.linkedin.com/in/CodeWithAlamin)
+- Frontend Mentor - [@CodeWithAlamin](https://www.frontendmentor.io/profile/CodeWithAlamin)
+- Github: [@CodeWithAlamin](https://github.com/CodeWithAlamin)
 
 Feel free to contact me with any questions or feedback!
 
@@ -120,4 +120,4 @@ Special thanks to Frontend Mentor for providing such an amazing platform to prac
 
 ## License
 
-This project is licensed under the [MIT](https://github.com/CodePapa360/Newsletter-signup-form/blob/main/LICENSE.md) license, which means you can use, modify, and distribute the code as you wish. If you have any questions or feedback, feel free to reach out. Thank you for considering my code!
+This project is licensed under the [MIT](https://github.com/CodeWithAlamin/Newsletter-signup-form/blob/main/LICENSE.md) license, which means you can use, modify, and distribute the code as you wish. If you have any questions or feedback, feel free to reach out. Thank you for considering my code!
